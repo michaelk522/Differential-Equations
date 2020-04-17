@@ -1,0 +1,39 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}First Order Differential Equations}{2}%
+\contentsline {subsection}{\numberline {1.1}Existence and Uniqueness of Solutions}{2}%
+\contentsline {subsection}{\numberline {1.2}Domain Restrictions}{2}%
+\contentsline {subsection}{\numberline {1.3}Separable Diff. Equations}{2}%
+\contentsline {subsection}{\numberline {1.4}Linear Diff. Equations}{3}%
+\contentsline {subsubsection}{\numberline {1.4.1}Solving Linear Diff. Eq. with Complex Variables}{4}%
+\contentsline {subsection}{\numberline {1.5}Homogeneous Differential Equations}{5}%
+\contentsline {subsection}{\numberline {1.6}Isobaric Differential Equations}{5}%
+\contentsline {subsection}{\numberline {1.7}Bernoulli Differential Equations}{7}%
+\contentsline {subsection}{\numberline {1.8}Obvious and Embedded Derivative Substitutions}{7}%
+\contentsline {subsection}{\numberline {1.9}Exact Differential Equations}{8}%
+\contentsline {subsubsection}{\numberline {1.9.1}Integrating Factor for Inexact Differential Equations}{8}%
+\contentsline {subsection}{\numberline {1.10}Reducible Second Order Equations}{9}%
+\contentsline {subsection}{\numberline {1.11}Miscellaneous Forms}{9}%
+\contentsline {subsection}{\numberline {1.12}Higher Degree First Order Differential Equations}{10}%
+\contentsline {subsubsection}{\numberline {1.12.1}Soluble for $\frac {dy}{dx}$}{10}%
+\contentsline {subsubsection}{\numberline {1.12.2}Soluble for X}{11}%
+\contentsline {subsubsection}{\numberline {1.12.3}Soluble for Y}{12}%
+\contentsline {subsubsection}{\numberline {1.12.4}Clairaut's Equation}{12}%
+\contentsline {section}{\numberline {2}Second Order Differential Equations}{13}%
+\contentsline {subsection}{\numberline {2.1}Second Order Linear Homogeneous ODEs with Constant Coefficients}{13}%
+\contentsline {subsection}{\numberline {2.2}Theory of Second Order Linear ODEs}{16}%
+\contentsline {subsection}{\numberline {2.3}Theory of Inhomogeneous Second Order ODES}{19}%
+\contentsline {subsection}{\numberline {2.4}Fourier Series}{23}%
+\contentsline {subsubsection}{\numberline {2.4.1}Using Fourier Series to Solve Differential Equations}{26}%
+\contentsline {subsection}{\numberline {2.5}Laplace Transform}{27}%
+\contentsline {subsubsection}{\numberline {2.5.1}Using Laplace Transforms to Solve Linear ODEs}{28}%
+\contentsline {subsubsection}{\numberline {2.5.2}Laplace Transforms for ODEs with Jump Discontinuities}{30}%
+\contentsline {subsection}{\numberline {2.6}Convolution}{33}%
+\contentsline {subsection}{\numberline {2.7}Dirac-Delta Function}{35}%
+\contentsline {section}{\numberline {3}Systems of Ordinary Differentials Equations}{37}%
+\contentsline {subsection}{\numberline {3.1}First Order Systems of ODEs}{37}%
+\contentsline {subsubsection}{\numberline {3.1.1}Eigenvalue Method of Solving First Order Systems of ODEs }{38}%
+\contentsline {subsection}{\numberline {3.2}How to Sketch Solutions to Systems of First Order ODEs}{44}%
+\contentsline {subsection}{\numberline {3.3}Inhomogeneous Systems}{46}%
+\contentsline {subsection}{\numberline {3.4}Matrix Exponentials}{48}%
+\contentsline {subsection}{\numberline {3.5}Decoupling Linear Systems}{50}%
+\contentsline {subsection}{\numberline {3.6}Closed Trajectories}{53}%
